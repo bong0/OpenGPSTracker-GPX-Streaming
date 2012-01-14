@@ -7,6 +7,7 @@ Installation
 ============
 
 It's as simple as that
+
     chmod 0700 track.cgi #if you have suExec set to the current $USER
     #else: chmod 0701 track.cgi #should work without 
     mv track.cgi /path/to/your/cgi/bin/
