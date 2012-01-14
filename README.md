@@ -13,3 +13,8 @@ It's as simple as that
     mv track.cgi /path/to/your/cgi/bin/
 
 Go to the settings of the app, enable streaming to custom URL, enter the URL with all you want to be included (track.cgi silently drops missing arguments if they aren't mandatory)
+
+Note
+====
+
+_Please_ submit bugs and especilly security issues if you find any!
